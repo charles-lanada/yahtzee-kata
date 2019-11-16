@@ -1,3 +1,5 @@
 # ignore dotnet build folders
-/obj
-/bin
+Game/bin/
+Game/obj/
+UnitTests/bin/
+UnitTests/obj/
