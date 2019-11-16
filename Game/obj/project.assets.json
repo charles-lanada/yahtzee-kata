@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charlesl\\Desktop\\Tech\\Emmersion\\code-kata\\Yahtzee\\Game\\Game.csproj",
+      "projectUniqueName": "C:\\Users\\charlesl\\Desktop\\Tech\\Emmersion\\code-kata\\Yahtzee-kata\\Game\\Game.csproj",
       "projectName": "Game",
-      "projectPath": "C:\\Users\\charlesl\\Desktop\\Tech\\Emmersion\\code-kata\\Yahtzee\\Game\\Game.csproj",
+      "projectPath": "C:\\Users\\charlesl\\Desktop\\Tech\\Emmersion\\code-kata\\Yahtzee-kata\\Game\\Game.csproj",
       "packagesPath": "C:\\Users\\charlesl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charlesl\\Desktop\\Tech\\Emmersion\\code-kata\\Yahtzee\\Game\\obj\\",
+      "outputPath": "C:\\Users\\charlesl\\Desktop\\Tech\\Emmersion\\code-kata\\Yahtzee-kata\\Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
